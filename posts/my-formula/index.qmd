@@ -1,0 +1,12 @@
+---
+title: "Post With Code"
+author: "Harlow Malloc"
+date: "2026-06-30"
+categories: [news, code, analysis]
+image: "image.jpg"
+format: typst
+---
+
+# the formula is 
+
+$a div b = a/b$
