@@ -11,7 +11,8 @@ image: "image.jpg"
 $$
 (a + b)^2 = a^2 + b^2 + 2ab
 $$
+# ok 
 
 $$
-frac(a,b) = a/b
+\frac{a}{b} = a^2
 $$

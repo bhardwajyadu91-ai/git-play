@@ -23,8 +23,8 @@
 
 <section id="the-formula-is" class="level1">
 <h1>the formula is</h1>
-<p><img src="https://latex.codecogs.com/png.latex?%0A(a%20+%20b)%5E2%20=%20a%5E2%20+%20b%5E2%20+%202ab%0A"></p>
-<p><img src="https://latex.codecogs.com/png.latex?%0Afrac(a,b)%20=%20a/b%0A"></p>
+<p><img src="https://latex.codecogs.com/png.latex?%0A(a%20+%20b)%5E2%20=%20a%5E2%20+%20b%5E2%20+%202ab%0A"> # ok</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0A%5Cfrac%7Ba%7D%7Bb%7D%20=%20a%5E2%0A"></p>
 
 
 </section>
