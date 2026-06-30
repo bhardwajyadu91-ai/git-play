@@ -38,6 +38,39 @@
   <media:content url="https://your-website-url.example.com/posts/my-formula/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>this about plants</title>
+  <dc:creator>Yadu Bahrdwaj</dc:creator>
+  <link>https://your-website-url.example.com/posts/my-new-blog/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="here-is-butea-monosperma" class="level1">
+<h1>here is butea monosperma</h1>
+<ul>
+<li>called as palash</li>
+<li><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/my-new-blog/bm.png" class="img-fluid figure-img"></p>
+<figcaption>fig-1</figcaption>
+</figure>
+</div></li>
+<li><strong>?@fig-1</strong> is about khakra</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>plants</category>
+  <category>env</category>
+  <guid>https://your-website-url.example.com/posts/my-new-blog/</guid>
+  <pubDate>Mon, 29 Jun 2026 18:30:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/my-new-blog/bm.png" medium="image" type="image/png" height="163" width="144"/>
+</item>
+<item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
   <link>https://your-website-url.example.com/posts/post-with-code/</link>

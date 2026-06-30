@@ -14,5 +14,8 @@
   "posts/my-formula/index.qmd": {
     "index.typ": "18935056",
     "index.html": "75e70be8"
+  },
+  "posts/my-new-blog/index.qmd": {
+    "index.html": "c382659c"
   }
 }

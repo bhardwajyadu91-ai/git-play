@@ -1,0 +1,12 @@
+---
+title: "this about plants "
+author: "Yadu Bahrdwaj"
+date: "2026-06-30"
+categories: [plants, env]
+image: "bm.png"
+---
+
+# here is butea monosperma
+- called as palash
+- ![fig-1](bm.png)
+- @fig-1 is about khakra
