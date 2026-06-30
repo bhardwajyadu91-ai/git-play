@@ -12,14 +12,27 @@
 <generator>quarto-1.8.26</generator>
 <lastBuildDate>Mon, 29 Jun 2026 18:30:00 GMT</lastBuildDate>
 <item>
-  <title></title>
+  <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/my-formula/index.pdf</link>
-  <description><![CDATA[ undefined ]]></description>
+  <link>https://your-website-url.example.com/posts/my-formula/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="the-formula-is" class="level1">
+<h1>the formula is</h1>
+<p><img src="https://latex.codecogs.com/png.latex?%0A(a%20+%20b)%5E2%20=%20a%5E2%20+%20b%5E2%20+%202ab%0A"></p>
+
+
+</section>
+
+ ]]></description>
   <category>news</category>
   <category>code</category>
   <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/my-formula/index.pdf</guid>
+  <guid>https://your-website-url.example.com/posts/my-formula/</guid>
   <pubDate>Mon, 29 Jun 2026 18:30:00 GMT</pubDate>
   <media:content url="https://your-website-url.example.com/posts/my-formula/image.jpg" medium="image" type="image/jpeg"/>
 </item>
